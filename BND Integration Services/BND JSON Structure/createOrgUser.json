@@ -1,0 +1,24 @@
+{  
+	"customers":
+	[  
+		{    
+			"client_id": "1111",
+			"client_firstname": "Demis",
+			"client_lastname1": "Estabridis",
+			"client_organisation_name":"",
+			"client_tax_id_number":"",
+			"client_sale_doc_type":"",
+			"id_country": "PE",
+			"client_discount": "",
+			"client_email": "cliente@prueba.com",
+			"client_type": "I",
+			"client_bill_address":"Av 123",
+			"client_shipping_address":"",
+			"client_phone":"000000000",
+			"parent_company":"2222",
+			"is_admin":"T/F",
+			"main_contact":[{}]	
+		} 
+	]
+	
+}   

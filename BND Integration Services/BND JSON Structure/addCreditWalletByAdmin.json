@@ -1,0 +1,20 @@
+{
+
+	"dataRecharge": [
+		{
+			"recharge_id": "1124",
+			"client_id": "8484847",
+			"recharge_amount": 190.00,
+			"currency ": "PEN",
+			"payment_method": 1,
+			"payment_id": 1,
+			"coupon_info":[
+				{
+					"coupon_code":"",
+					"coupon_name":"",
+					"created_by":"Employee Username"
+				}
+			]
+		}
+	]
+}

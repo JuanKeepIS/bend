@@ -1,0 +1,23 @@
+{
+
+	"dataRecharge": [
+		{
+			"recharge_id": "1124",
+			"client_id": "8484847",
+			"recharge_amount": 190.00,
+			"currency ": "PEN",
+			"payment_method": 1,
+			"payment_id": 1,
+			"payment_processor_info":[
+				{
+					"account_id":"000",
+					"order_id":"000",
+					"payment_country":"PE",
+					"value":0.0,
+					"transactionid":"abcde12345",
+					"referencecode":"abcde12345"
+				}
+			]
+		}
+	]
+}

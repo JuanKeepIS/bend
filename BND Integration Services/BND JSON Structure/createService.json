@@ -1,0 +1,48 @@
+{
+	"orders": [
+		{
+			"order_id": 1111,
+			"datetime_requested": "1900-01-01T00:00:00",
+			"datetime_finished": "1900-01-01T00:00:00",
+			"estim_amount":0.0,
+			"estim_distance": 0.0,
+			"estim_time": "00:00:00",
+			"real_amount": 0.0,
+			"real_distance": 0.0,
+			"real_time": "00:00:00",
+			"team_id": 1,
+			"id_country": "PE",
+			"payment_method": 1,
+			"payment_id": 1,
+			"payment_cc_4digit": "",
+			"payment_tx_id": "XYZz12304aABC",
+			"final_status": "Completed/Cancelled",
+			"service_type": "OnDemand/Scheduled",
+			"messenger_id": "123",
+			"price_list_id":1,
+			"client_id":"2222",
+			"client_type":"C/I",
+			"items": [
+				{
+					"item_id": 0,
+					"Item_estimate": 0.0,
+					"Item_real_value": 0.0
+					
+				},
+				{
+					"item_id": 0,
+					"Item_estimate": 0.0,
+					"Item_real_value": 0.0
+					
+				}
+				
+			],
+			"discount": [
+				{
+					"item_id": 0,
+					"discount_amount": 0.0	
+				}				
+			]
+			
+	}]
+}

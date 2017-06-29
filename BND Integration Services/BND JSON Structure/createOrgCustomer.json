@@ -1,0 +1,26 @@
+{  
+	"customers":
+	[  
+		{    
+			"client_id": "1111",
+			"client_firstname": "",
+			"client_lastname1": "",
+			"client_organisation_name":"ISEND PE",
+			"client_tax_id_number":"20565688830",
+			"client_sale_doc_type":"1",
+			"id_country": "PE",
+			"client_discount": "",
+			"client_email": "cliente@prueba.com",
+			"client_type": "C",
+			"client_bill_address":"Av 123",
+			"client_shipping_address":"AV 234",
+			"client_phone":"000000000",
+			"parent_company":"",
+			"main_contact":[{
+					"contact_id":"2222",
+					"is_admin":"T/F"
+			}]	
+		} 
+	]
+	
+}  

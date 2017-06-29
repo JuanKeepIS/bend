@@ -1,0 +1,13 @@
+{
+	"message": "OK",
+	"status": 1,
+	"documents": [
+		{
+			"document_number": "1124",
+			"client_id": "2222",
+			"transaction_date": "date",
+			"amount":0.0
+		}
+	]
+}
+
